@@ -8,6 +8,15 @@
   "release_history": [
     {
       "version": "1.0.0",
+      "event": "update",
+      "maintainer": "Metsutan",
+      "upstream_repository": "https://github.com/Metsutan/CCTestPlugin",
+      "verified_commit_hash": "27736a53f0c70c0c02d6687ff0a7cea87aa632cd",
+      "approved_by": "Metsutan",
+      "timestamp": "2026-06-19T08:59:48Z"
+    },
+    {
+      "version": "1.0.0",
       "event": "project_adoption",
       "maintainer": "Metsutan",
       "upstream_repository": "https://github.com/Metsutan/CCTestPlugin",
