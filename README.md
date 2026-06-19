@@ -1,0 +1,1 @@
+# CamelCore Plugin Vault
