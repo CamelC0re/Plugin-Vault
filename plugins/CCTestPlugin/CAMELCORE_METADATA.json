@@ -1,6 +1,6 @@
 {
-  "plugin_id": "8",
-  "source_archive": "https://cc-api.sin.gg/api/internal/download-source?key=sources%2F8-CCTestPlugin.zip",
+  "plugin_id": "9",
+  "source_archive": "https://cc-api.sin.gg/api/internal/download-source?key=sources%2F9-CCTestPlugin.zip",
   "verified_commit_hash": "e8c078f8a4af66cf6b0f70e99cec23404959dfbd",
-  "compiled_at": "2026-06-19T06:27:58Z"
+  "compiled_at": "2026-06-19T07:06:53Z"
 }
