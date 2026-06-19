@@ -2,5 +2,19 @@
   "plugin_id": "9",
   "source_archive": "https://cc-api.sin.gg/api/internal/download-source?key=sources%2F9-CCTestPlugin.zip",
   "verified_commit_hash": "e8c078f8a4af66cf6b0f70e99cec23404959dfbd",
-  "compiled_at": "2026-06-19T07:06:53Z"
+  "compiled_at": "2026-06-19T07:06:53Z",
+  "current_maintainer": "Metsutan",
+  "license": "Unknown",
+  "release_history": [
+    {
+      "version": "1.0.0",
+      "event": "project_adoption",
+      "maintainer": "Metsutan",
+      "upstream_repository": "https://github.com/Metsutan/CCTestPlugin",
+      "verified_commit_hash": "84cf0be90729e2d7a1ddeb8fddda2b19e78e4fd0",
+      "approved_by": "Metsutan",
+      "timestamp": "2026-06-19T08:33:21Z",
+      "notes": "Plugin ownership transferred or adopted."
+    }
+  ]
 }
