@@ -11,6 +11,15 @@
       "event": "update",
       "maintainer": "Metsutan",
       "upstream_repository": "https://github.com/Metsutan/CCTestPlugin",
+      "verified_commit_hash": "722490093de3eaa7bd48c1da077f71437e7e63ac",
+      "approved_by": "Metsutan",
+      "timestamp": "2026-06-21T00:42:13Z"
+    },
+    {
+      "version": "1.0.0",
+      "event": "update",
+      "maintainer": "Metsutan",
+      "upstream_repository": "https://github.com/Metsutan/CCTestPlugin",
       "verified_commit_hash": "27736a53f0c70c0c02d6687ff0a7cea87aa632cd",
       "approved_by": "Metsutan",
       "timestamp": "2026-06-19T08:59:48Z"
